@@ -181,7 +181,7 @@ td,th{
     background:linear-gradient(#f8d1d9d0, #ffbae9) ;  
 }
 .mapa-contenido{
-    
+    width: 90%;
     margin: 0 auto;
 }
 .diferenciales{
